@@ -7,6 +7,7 @@
   <body>
     <outline text="4Gamer.net − 最新記事" title="4Gamer.net − 最新記事" description="" type="rss" version="RSS" htmlUrl="https://www.4gamer.net/" xmlUrl="https://www.4gamer.net/rss/index.xml"/>
     <outline text="4Gamers" title="4Gamers" description="" type="rss" version="RSS" htmlUrl="https://www.4gamers.com.tw/news" xmlUrl="https://www.4gamers.com.tw/rss/latest-news"/>
+    <outline text="Al Jazeera – Breaking News, World News and Video from Al Jazeera" title="Al Jazeera – Breaking News, World News and Video from Al Jazeera" description="" type="rss" version="RSS" htmlUrl="https://www.aljazeera.com" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
     <outline text="BBC Chinese" title="BBC Chinese" description="" type="rss" version="RSS" htmlUrl="https://www.bbc.com/zhongwen/trad" xmlUrl="http://www.bbc.co.uk/zhongwen/trad/index.xml"/>
     <outline text="EFF Press Releases" title="EFF Press Releases" description="" type="rss" version="RSS" htmlUrl="https://www.eff.org/rss/pressrelease" xmlUrl="https://www.eff.org/rss/pressrelease"/>
     <outline text="FSF News" title="FSF News" description="" type="rss" version="RSS" htmlUrl="http://www.fsf.org/news/aggregator" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
@@ -17,12 +18,14 @@
     <outline text="NHKニュース" title="NHKニュース" description="" type="rss" version="RSS" htmlUrl="http://www3.nhk.or.jp/news/" xmlUrl="https://www.nhk.or.jp/rss/news/cat0.xml"/>
     <outline text="Open Source Initiative" title="Open Source Initiative" description="" type="rss" version="RSS" htmlUrl="https://opensource.org" xmlUrl="https://opensource.org/feed"/>
     <outline text="Phoronix" title="Phoronix" description="" type="rss" version="RSS" htmlUrl="https://www.phoronix.com/" xmlUrl="https://www.phoronix.com/rss.php"/>
+    <outline text="Rust Blog" title="Rust Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.rust-lang.org/" xmlUrl="https://blog.rust-lang.org/feed.xml"/>
     <outline text="Slashdot" title="Slashdot" description="" type="rss" version="RSS" htmlUrl="https://slashdot.org/" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain"/>
     <outline text="TSEC FEED" title="TSEC FEED" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.twse.com.tw/rwd/zh/news/feed?type=rss"/>
     <outline text="Yahoo!ニュース・トピックス - 主要" title="Yahoo!ニュース・トピックス - 主要" description="" type="rss" version="RSS" htmlUrl="https://news.yahoo.co.jp/topics/top-picks?source=rss" xmlUrl="https://news.yahoo.co.jp/rss/topics/top-picks.xml"/>
     <outline text="ニュース速報（総合）" title="ニュース速報（総合）" description="" type="rss" version="RSS" htmlUrl="https://mainichi.jp/rss/etc/mainichi-flash.rss" xmlUrl="https://mainichi.jp/rss/etc/mainichi-flash.rss"/>
     <outline text="中央社即時新聞 地方新聞" title="中央社即時新聞 地方新聞" description="" type="rss" version="RSS" htmlUrl="https://www.cna.com.tw/list/aloc.aspx" xmlUrl="https://feeds.feedburner.com/rsscna/local"/>
     <outline text="公視新聞網" title="公視新聞網" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://news.pts.org.tw/xml/newsfeed.xml"/>
+    <outline text="國家資通安全研究院 - 漏洞警訊公告" title="國家資通安全研究院 - 漏洞警訊公告" description="" type="rss" version="RSS" htmlUrl="https://www.nics.nat.gov.tw/core_business/information_security_information_sharing/Vulnerability_Alert_Announcements/" xmlUrl="https://www.nics.nat.gov.tw/RSS2.xml"/>
     <outline text="地方新聞 - 自由時報" title="地方新聞 - 自由時報" description="" type="rss" version="RSS" htmlUrl="https://news.ltn.com.tw/list/breakingnews/local" xmlUrl="https://news.ltn.com.tw/rss/local.xml"/>
     <outline text="巴哈姆特 GNN 新聞網" title="巴哈姆特 GNN 新聞網" description="" type="rss" version="RSS" htmlUrl="https://gnn.gamer.com.tw/" xmlUrl="https://gnn.gamer.com.tw/rss.xml"/>
     <outline text="焦點新聞 - 衛生福利部" title="焦點新聞 - 衛生福利部" description="" type="rss" version="RSS" htmlUrl="https://www.mohw.gov.tw/np-16-1.html" xmlUrl="https://www.mohw.gov.tw/rss-16-1.html"/>
