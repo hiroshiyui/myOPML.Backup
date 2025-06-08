@@ -20,6 +20,7 @@
     <outline text="NHKニュース" title="NHKニュース" description="" type="rss" version="RSS" htmlUrl="http://www3.nhk.or.jp/news/" xmlUrl="https://www.nhk.or.jp/rss/news/cat0.xml"/>
     <outline text="Open Source Initiative" title="Open Source Initiative" description="" type="rss" version="RSS" htmlUrl="https://opensource.org" xmlUrl="https://opensource.org/feed"/>
     <outline text="Phoronix" title="Phoronix" description="" type="rss" version="RSS" htmlUrl="https://www.phoronix.com/" xmlUrl="https://www.phoronix.com/rss.php"/>
+    <outline text="postmarketOS Blog" title="postmarketOS Blog" description="" type="rss" version="RSS" htmlUrl="https://postmarketos.org/blog/" xmlUrl="https://postmarketos.org/blog/feed.atom"/>
     <outline text="Rust Blog" title="Rust Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.rust-lang.org/" xmlUrl="https://blog.rust-lang.org/feed.xml"/>
     <outline text="Slashdot" title="Slashdot" description="" type="rss" version="RSS" htmlUrl="https://slashdot.org/" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain"/>
     <outline text="TSEC FEED" title="TSEC FEED" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.twse.com.tw/rwd/zh/news/feed?type=rss"/>
